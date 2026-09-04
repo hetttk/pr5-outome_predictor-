@@ -246,32 +246,6 @@ The Stacking Regressor has a very slightly lower MAE, so it remains a reasonable
 
 ---
 
-## 📁 Project Contents
-
-```text
-Smart_Outcome_Predictor/
-│
-├── 📓 Smart_Outcome_Predictor_COMPLETE.ipynb   # Main submission notebook
-├── 📘 Smart_Outcome_Predictor.ipynb            # Editable notebook
-├── 🧪 Smart_Outcome_Predictor_Executed.ipynb   # Executed notebook
-├── 🐍 smart_outcome_predictor.py               # Source code
-├── 📄 dataset.csv                              # Supplied dataset
-│
-├── 📊 classification_results.csv
-├── 📊 regression_results.csv
-├── 📊 adaboost_analysis.csv
-├── 📊 gradient_boosting_learning_rate_analysis.csv
-├── 📊 attendance_summary.csv
-├── 📊 course_level_summary.csv
-│
-├── 📈 plots/                                   # Charts used in the project
-├── 🖼️ notebook_screenshots/                    # Evidence screenshots
-├── 📚 Smart_Outcome_Predictor_Theory_and_Report.pdf
-├── ✅ DELIVERABLES_MAP.md
-└── 📖 README_HD.md
-```
-
----
 
 ## ▶️ Run the Project
 
@@ -321,23 +295,5 @@ The notebook is organized to cover the major requirements of the supplied brief:
 - ✅ README and supporting submission files
 
 ---
-
-## 🎓 Academic Note
-
-This project is intentionally written in a **simple, explainable student-project style**. The focus is on understanding ensemble learning, comparing models fairly, reading metrics, and explaining why a particular model is selected.
-
-The main submission file is:
-
-### ⭐ `Smart_Outcome_Predictor_COMPLETE.ipynb`
-
-It is designed to be the **single notebook to submit** for the project.
-
----
-
-<div align="center">
-
-### Built for learning • experimentation • comparison • practical ML thinking
-
-**Smart Outcome Predictor — Ensemble Learning for Student Outcomes** 🎓📊
 
 </div>
